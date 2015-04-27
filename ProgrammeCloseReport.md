@@ -1,0 +1,9 @@
+# Executive Summary #
+
+**The “Expose” Programme (#jiscEXPO) was made up of 12 Projects (representing approx £1m of investment).  These projects have successfully demonstrated the first University-wide effort to make scholarly datasets and vocabularies available in a format whereby both humans and machines can openly reuse the content without fear of undue bureaucracy or copyright infringement.  In short, this programme has one again established that the Academic sector is still a world leader in sharing the information by which we organise our society and its ideas.**
+
+**The Expose Programme has demonstrated the value of opening up its data by producing several visionary products that demonstrate the everyday real world value of what we can do with data once it is truly open for anyone to reuse without restriction.  In this report you will find several exemplars of change.  Not only are there demonstrations of Universities increasing their internal business intelligence (and therefore saving money), there is also proof that in working together as a sector to share knowledge (through structured vocabularies) _we can_ enable the finding of ideas in the vastness that is Web.**
+
+**The community of developers and managers who are starting to realise this paradigm shift and spread its message throughout the Higher Education sector has just begun and will continue to improve over time.  This change is a realisation of the strategy as instlled by JISC leaders.**
+
+_N.B. The use of the hash/pound "#" symbol in this report denotes a keyword or tag that you can use in a search engine like Google, and get back results within the first page of results that will more clearly define the meaning of that word._
